@@ -20,7 +20,7 @@ Travel around the game to follow the clues to the answer.
 > $ certutil -hashfile answer.txt SHA256
 
 > SHA256 hash of answer.txt:
-
+>
 > 887969fa98300d88d70341e0d7eaeb9fe54a1089ff0416476b4c56f001bc8eff
-
+>
 > CertUtil: -hashfile command completed successfully.
